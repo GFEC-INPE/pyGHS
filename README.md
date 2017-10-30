@@ -16,5 +16,5 @@ We selected a benchmark for
 python ghs.py benchmark/AA/d1.txt benchmark/AA/d2.txt
 ```
 In this example the metric is for the following distribution:
-![Benchmark](/benchmark/distribution.png)
+![Benchmark](benchmark/distribution.png)
 
