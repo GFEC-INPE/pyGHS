@@ -11,10 +11,10 @@ The following libraries are required to run this operator:
 * pandas
 
 ## Benchmark
-We selected a benchmark for 
+We selected a benchmark set of distributions: 
 ```
 python ghs.py benchmark/AA/d1.txt benchmark/AA/d2.txt
 ```
 In this example the metric is for the following distribution:
-![Benchmark](benchmark/AA/distribution.png)
 
+<img src="benchmark/AA/distribution.png" width="300" height="300">
